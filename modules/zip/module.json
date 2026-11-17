@@ -1,0 +1,1 @@
+{ "name": "Zip", "description": "Compress a selection to a .zip and extract archives, with optional passwords.", "icon": "zip", "order": 10 }

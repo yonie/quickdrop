@@ -1,0 +1,22 @@
+Welcome to QuickDrop!
+
+QuickDrop is a shared drop zone for your home network. Put a file in from
+one device and pick it up on another: your PC, your laptop, your phone.
+
+Getting started
+  - Drag files or folders onto the window. They land where you drop them.
+  - On a phone or tablet, tap Upload.
+  - Double-click a file to open it. Right-click for more, like Download.
+  - Move icons anywhere you like, and make folders to keep things tidy.
+  - Deleted something by accident? Open the Recycle Bin, or press Ctrl+Z.
+
+Try the samples
+  - Sample photo.jpg      double-click to view it, or right-click > Edit in Paint
+  - Sample document.pdf   double-click to read it
+  - Sample archive.zip    double-click to unpack it into a folder
+  - this file             you're reading it in Notepad, so go ahead and type
+
+Press F1 or click the ? button for help, and Settings to choose which
+tools are switched on.
+
+You can delete the samples whenever you like.

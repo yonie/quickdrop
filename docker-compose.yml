@@ -1,0 +1,15 @@
+services:
+  quickdrop:
+    build: .
+    container_name: quickdrop
+    ports:
+      - "${QUICKDROP_PORT:-3030}:3030"
+    volumes:
+      - ${QUICKDROP_DATA:-./data}:/data
+    environment:
+      - QUOTA_MB=${QUICKDROP_QUOTA_MB:-100}
+      - ALLOWED_HOSTS=${QUICKDROP_HOSTS:-}
+    read_only: true
+    cap_drop: [ALL]
+    security_opt: [no-new-privileges:true]
+    restart: unless-stopped

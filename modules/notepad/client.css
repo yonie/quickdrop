@@ -1,0 +1,9 @@
+/* Notepad module */
+.np-text {
+  flex: 1; width: 100%; min-height: 0; resize: none; border: 0; outline: none; margin: 0;
+  padding: 10px 14px; background: var(--content); color: var(--text);
+  font: 14px/1.5 ui-monospace, "Cascadia Mono", "Cascadia Code", Consolas, Menlo, monospace;
+  tab-size: 4; overflow: auto;
+}
+.np-text:disabled { opacity: .6; }
+.np-msg { color: var(--text-2); }

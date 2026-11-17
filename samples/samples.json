@@ -1,0 +1,6 @@
+[
+  { "file": "Welcome to QuickDrop.txt", "x": 12, "y": 12 },
+  { "file": "Sample photo.jpg", "x": 108, "y": 12 },
+  { "file": "Sample document.pdf", "x": 204, "y": 12 },
+  { "file": "Sample archive.zip", "x": 300, "y": 12 }
+]
